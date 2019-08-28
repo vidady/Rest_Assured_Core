@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-26T12:30:25Z" name="Suite" finished-at="2019-08-26T12:30:27Z" duration-ms="2422">
+    <groups>
+    </groups>
+    <test started-at="2019-08-26T12:30:25Z" name="Test" finished-at="2019-08-26T12:30:27Z" duration-ms="2422">
+      <class name="rest.rest.practice">
+        <test-method is-config="true" signature="init()[pri:0, instance:rest.rest.practice@48c76607]" started-at="2019-08-26T12:30:25Z" name="init" finished-at="2019-08-26T12:30:25Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="createPlaceAPI()[pri:0, instance:rest.rest.practice@48c76607]" started-at="2019-08-26T12:30:25Z" name="createPlaceAPI" finished-at="2019-08-26T12:30:27Z" duration-ms="1920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPlaceAPI -->
+        <test-method signature="test003(java.lang.String, int)[pri:1, instance:rest.rest.practice@48c76607]" started-at="2019-08-26T12:30:27Z" name="test003" data-provider="getData" finished-at="2019-08-26T12:30:27Z" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[viv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test003 -->
+        <test-method signature="test003(java.lang.String, int)[pri:1, instance:rest.rest.practice@48c76607]" started-at="2019-08-26T12:30:27Z" name="test003" data-provider="getData" finished-at="2019-08-26T12:30:27Z" duration-ms="117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test003 -->
+        <test-method signature="test004(java.lang.String, int)[pri:2, instance:rest.rest.practice@48c76607]" started-at="2019-08-26T12:30:27Z" name="test004" data-provider="getData" finished-at="2019-08-26T12:30:27Z" duration-ms="100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[viv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test004 -->
+        <test-method signature="test004(java.lang.String, int)[pri:2, instance:rest.rest.practice@48c76607]" started-at="2019-08-26T12:30:27Z" name="test004" data-provider="getData" finished-at="2019-08-26T12:30:27Z" duration-ms="138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dub]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test004 -->
+      </class> <!-- rest.rest.practice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

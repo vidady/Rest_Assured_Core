@@ -1,0 +1,94 @@
+2019-08-28 10:58:57,254 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 10:58:57,564 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 10:58:59,271 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 10:58:59,333 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 10:58:59,509 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 10:58:59,521 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 10:58:59,684 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 10:58:59,685 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:03:25,604 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:03:25,917 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 11:03:27,638 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 11:03:27,709 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:03:27,874 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:03:27,885 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:03:28,043 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:03:28,045 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:05:21,029 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:05:21,359 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 11:05:23,085 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 11:05:23,142 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:05:23,290 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:05:23,300 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:05:23,441 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:05:23,442 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:08:44,252 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:08:44,571 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 11:08:46,294 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 11:08:46,363 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:08:46,516 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:08:46,525 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:08:46,656 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:08:46,658 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:10:08,961 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:10:09,275 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 11:10:10,896 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 11:10:10,956 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:10:11,101 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:10:11,110 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:10:11,258 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:10:11,259 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:11:46,659 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:11:46,976 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 11:11:48,678 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 11:11:48,762 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:11:48,937 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:11:48,947 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:11:49,104 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:11:49,105 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:12:28,137 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:12:28,471 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 11:12:30,213 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 11:12:30,298 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:12:30,467 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:12:30,477 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 11:12:30,616 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 11:12:30,617 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 12:08:13,881 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 12:08:14,192 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 12:08:15,833 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 12:08:15,912 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 12:08:16,069 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 12:08:16,071 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 12:08:16,072 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 12:11:33,611 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 12:11:33,926 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 12:11:35,627 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 12:11:35,712 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 12:11:35,877 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 12:11:35,879 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 12:11:35,880 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 15:49:32,051 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 15:49:32,417 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 15:49:34,214 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 15:49:34,281 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 15:49:34,482 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 15:49:34,495 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 15:49:34,646 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 15:49:34,647 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 15:56:26,389 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 15:56:26,713 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 15:56:28,486 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 15:56:28,552 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 15:56:28,736 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 15:56:28,747 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 15:56:28,910 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 15:56:28,912 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice
+2019-08-28 16:01:12,372 [main] INFO practice - STARTING TESTS FOR CLASS --- practice
+2019-08-28 16:01:12,713 [main] INFO practice----createPlaceAPI - STARTING TEST :createPlaceAPI
+2019-08-28 16:01:14,594 [main] INFO practice----createPlaceAPI - createPlaceAPI --- Test Passed
+2019-08-28 16:01:14,659 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 16:01:14,829 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 16:01:14,842 [main] INFO practice----test003 - STARTING TEST :test003
+2019-08-28 16:01:15,006 [main] INFO practice----test003 - test003 --- Test Failed
+2019-08-28 16:01:15,007 [main] INFO practice----test003 - ENDING TESTS FOR CLASS --- practice

@@ -1,0 +1,94 @@
+2019-08-28 10:58:57,254 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 10:58:57,564 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 10:58:59,271 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 10:58:59,333 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 10:58:59,509 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 10:58:59,521 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 10:58:59,684 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 10:58:59,685 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:03:25,604 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:03:25,917 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 11:03:27,638 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 11:03:27,709 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:03:27,874 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:03:27,885 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:03:28,043 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:03:28,045 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:05:21,029 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:05:21,359 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 11:05:23,085 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 11:05:23,142 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:05:23,290 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:05:23,300 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:05:23,441 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:05:23,442 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:08:44,252 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:08:44,571 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 11:08:46,294 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 11:08:46,363 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:08:46,516 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:08:46,525 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:08:46,656 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:08:46,658 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:10:08,961 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:10:09,275 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 11:10:10,896 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 11:10:10,956 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:10:11,101 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:10:11,110 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:10:11,258 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:10:11,259 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:11:46,659 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:11:46,976 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 11:11:48,678 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 11:11:48,762 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:11:48,937 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:11:48,947 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:11:49,104 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:11:49,105 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 11:12:28,137 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 11:12:28,471 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 11:12:30,213 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 11:12:30,298 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:12:30,467 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:12:30,477 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 11:12:30,616 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 11:12:30,617 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 12:08:13,881 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 12:08:14,192 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 12:08:15,833 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 12:08:15,912 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 12:08:16,069 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 12:08:16,071 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 12:08:16,072 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 12:11:33,611 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 12:11:33,926 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 12:11:35,627 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 12:11:35,712 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 12:11:35,877 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 12:11:35,879 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 12:11:35,880 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 15:49:32,051 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 15:49:32,417 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 15:49:34,214 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 15:49:34,281 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 15:49:34,482 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 15:49:34,495 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 15:49:34,646 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 15:49:34,647 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 15:56:26,389 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 15:56:26,713 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 15:56:28,486 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 15:56:28,552 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 15:56:28,736 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 15:56:28,747 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 15:56:28,910 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 15:56:28,912 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-28 16:01:12,372 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-28 16:01:12,713 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-28 16:01:14,594 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-28 16:01:14,659 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 16:01:14,829 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 16:01:14,842 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-28 16:01:15,006 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-28 16:01:15,007 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice

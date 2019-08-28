@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Portal Automation Testing]">
+  <listeners>
+    <listener class-name="com.qa.utils.WebEventListener"/>
+  </listeners>
+  <test thread-count="5" name="practice(failed)">
+    <classes>
+      <class name="rest.rest.practice">
+        <methods>
+          <include name="initialize"/>
+          <include name="init"/>
+          <include name="setUp"/>
+          <include name="test003" invocation-numbers="0 1"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- rest.rest.practice -->
+    </classes>
+  </test> <!-- practice(failed) -->
+</suite> <!-- Failed suite [Portal Automation Testing] -->

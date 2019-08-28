@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="3.276" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\vdubey\eclipse-workspace\rest_assured\rest\target\test-classes;C:\Users\vdubey\eclipse-workspace\rest_assured\rest\target\classes;C:\Users\vdubey\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\vdubey\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\vdubey\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\vdubey\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\vdubey\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\rest-assured\4.0.0\rest-assured-4.0.0.jar;C:\Users\vdubey\.m2\repository\org\codehaus\groovy\groovy\2.5.6\groovy-2.5.6.jar;C:\Users\vdubey\.m2\repository\org\codehaus\groovy\groovy-xml\2.5.6\groovy-xml-2.5.6.jar;C:\Users\vdubey\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\vdubey\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\vdubey\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\vdubey\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\vdubey\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\vdubey\.m2\repository\org\hamcrest\hamcrest-core\2.1\hamcrest-core-2.1.jar;C:\Users\vdubey\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\vdubey\.m2\repository\org\hamcrest\hamcrest-library\2.1\hamcrest-library-2.1.jar;C:\Users\vdubey\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\json-path\4.0.0\json-path-4.0.0.jar;C:\Users\vdubey\.m2\repository\org\codehaus\groovy\groovy-json\2.5.6\groovy-json-2.5.6.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\rest-assured-common\4.0.0\rest-assured-common-4.0.0.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\xml-path\4.0.0\xml-path-4.0.0.jar;C:\Users\vdubey\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\vdubey\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\vdubey\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.10\jaxb-osgi-2.2.10.jar;C:\Users\vdubey\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\vdubey\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\vdubey\.m2\repository\com\github\scribejava\scribejava-apis\6.8.0\scribejava-apis-6.8.0.jar;C:\Users\vdubey\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9.3\jackson-databind-2.9.9.3.jar;C:\Users\vdubey\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\vdubey\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar;C:\Users\vdubey\.m2\repository\com\github\scribejava\scribejava-core\6.8.0\scribejava-core-6.8.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="12"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\vdubey\AppData\Local\Temp\surefire18282920472195352700\surefirebooter17386838233180359072.jar C:\Users\vdubey\AppData\Local\Temp\surefire18282920472195352700 2019-08-26T18-00-22_454-jvmRun1 surefire3925463746400164905tmp surefire_010772482815307228267tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\vdubey\eclipse-workspace\rest_assured\rest\target\test-classes;C:\Users\vdubey\eclipse-workspace\rest_assured\rest\target\classes;C:\Users\vdubey\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\vdubey\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\vdubey\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\vdubey\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\vdubey\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\rest-assured\4.0.0\rest-assured-4.0.0.jar;C:\Users\vdubey\.m2\repository\org\codehaus\groovy\groovy\2.5.6\groovy-2.5.6.jar;C:\Users\vdubey\.m2\repository\org\codehaus\groovy\groovy-xml\2.5.6\groovy-xml-2.5.6.jar;C:\Users\vdubey\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\vdubey\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\vdubey\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\vdubey\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\vdubey\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\vdubey\.m2\repository\org\hamcrest\hamcrest-core\2.1\hamcrest-core-2.1.jar;C:\Users\vdubey\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\vdubey\.m2\repository\org\hamcrest\hamcrest-library\2.1\hamcrest-library-2.1.jar;C:\Users\vdubey\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\json-path\4.0.0\json-path-4.0.0.jar;C:\Users\vdubey\.m2\repository\org\codehaus\groovy\groovy-json\2.5.6\groovy-json-2.5.6.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\rest-assured-common\4.0.0\rest-assured-common-4.0.0.jar;C:\Users\vdubey\.m2\repository\io\rest-assured\xml-path\4.0.0\xml-path-4.0.0.jar;C:\Users\vdubey\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\vdubey\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\vdubey\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.10\jaxb-osgi-2.2.10.jar;C:\Users\vdubey\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\vdubey\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\vdubey\.m2\repository\com\github\scribejava\scribejava-apis\6.8.0\scribejava-apis-6.8.0.jar;C:\Users\vdubey\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9.3\jackson-databind-2.9.9.3.jar;C:\Users\vdubey\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\vdubey\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar;C:\Users\vdubey\.m2\repository\com\github\scribejava\scribejava-core\6.8.0\scribejava-core-6.8.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\vdubey"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-04-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\vdubey\eclipse-workspace\rest_assured\rest"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\vdubey\AppData\Local\Temp\surefire18282920472195352700\surefirebooter17386838233180359072.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="12.0.1+12"/>
+    <property name="user.name" value="vdubey"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\vdubey\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\vdubey\AppData\Local\Temp\"/>
+    <property name="java.version" value="12.0.1"/>
+    <property name="user.dir" value="C:\Users\vdubey\eclipse-workspace\rest_assured\rest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-12.0.1/bin/server;C:/Program Files/Java/jdk-12.0.1/bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Artifactory\artifactory-3.2.0;C:\Maven\apache-maven-3.2.1\bin;C:\android\tools;C:\android\platform-tools;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-12.0.1\bin;D:\Artifacts\apache-maven-3.6.0\bin;D:\Work\exes;D:\Artifacts\allure-commandline-2.11.0\allure-2.11.0\bin;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\nodejs;C:\Program Files\nodejs\node_modules\npm\bin;C:\Users\vdubey\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\vdubey\AppData\Local\Programs\Python\Python37-32\;C:\Users\vdubey\AppData\Local\Microsoft\WindowsApps;C:\Users\vdubey\AppData\Local\Android\Sdk\platform-tools;C:\Users\vdubey\AppData\Local\Android\Sdk;C:\Users\vdubey\AppData\Local\Android\Sdk\tools;C:\Users\vdubey\AppData\Roaming\npm;C:\Users\vdubey\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\vdubey\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="12.0.1+12"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="56.0"/>
+  </properties>
+  <testcase name="createPlaceAPI" classname="rest.rest.practice" time="1.92"/>
+  <testcase name="test003" classname="rest.rest.practice" time="0.131"/>
+  <testcase name="test003" classname="rest.rest.practice" time="0.117"/>
+  <testcase name="test004" classname="rest.rest.practice" time="0.1"/>
+  <testcase name="test004" classname="rest.rest.practice" time="0.138"/>
+</testsuite>
