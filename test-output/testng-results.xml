@@ -2,20 +2,20 @@
 <testng-results ignored="2" total="5" passed="1" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-28T10:31:12Z" name="Portal Automation Testing" finished-at="2019-08-28T10:31:15Z" duration-ms="2691">
+  <suite started-at="2019-08-28T10:43:44Z" name="Portal Automation Testing" finished-at="2019-08-28T10:43:46Z" duration-ms="2432">
     <groups>
     </groups>
-    <test started-at="2019-08-28T10:31:12Z" name="practice" finished-at="2019-08-28T10:31:15Z" duration-ms="2691">
+    <test started-at="2019-08-28T10:43:44Z" name="practice" finished-at="2019-08-28T10:43:46Z" duration-ms="2432">
       <class name="rest.rest.practice">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:12Z" name="initialize" finished-at="2019-08-28T10:31:12Z" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="initialize" finished-at="2019-08-28T10:43:44Z" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method is-config="true" signature="init()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:12Z" name="init" finished-at="2019-08-28T10:31:12Z" duration-ms="363" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="init" finished-at="2019-08-28T10:43:44Z" duration-ms="317" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:12Z" name="setUp" finished-at="2019-08-28T10:31:12Z" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="setUp" finished-at="2019-08-28T10:43:44Z" duration-ms="9" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="createPlaceAPI()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:12Z" name="createPlaceAPI" finished-at="2019-08-28T10:31:14Z" duration-ms="1881" status="PASS">
+        <test-method signature="createPlaceAPI()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="createPlaceAPI" finished-at="2019-08-28T10:43:46Z" duration-ms="1659" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPlaceAPI -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:14Z" name="setUp" finished-at="2019-08-28T10:31:14Z" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="setUp" finished-at="2019-08-28T10:43:46Z" duration-ms="10" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:14Z" name="test003" data-provider="dataProvider" finished-at="2019-08-28T10:31:14Z" duration-ms="170" status="FAIL">
+        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="test003" data-provider="dataProvider" finished-at="2019-08-28T10:43:46Z" duration-ms="173" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -127,7 +127,7 @@ at runner.runner.main(runner.java:80)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test003 -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:14Z" name="setUp" finished-at="2019-08-28T10:31:14Z" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="setUp" finished-at="2019-08-28T10:43:46Z" duration-ms="8" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -138,7 +138,7 @@ at runner.runner.main(runner.java:80)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:14Z" name="test003" data-provider="dataProvider" finished-at="2019-08-28T10:31:15Z" duration-ms="165" status="FAIL">
+        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="test003" data-provider="dataProvider" finished-at="2019-08-28T10:43:46Z" duration-ms="152" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -222,7 +222,7 @@ at runner.runner.main(runner.java:80)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test003 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:31:15Z" name="tearDown" finished-at="2019-08-28T10:31:15Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="tearDown" finished-at="2019-08-28T10:43:46Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -4,6 +4,7 @@ import java.io.File;
 
 import org.openqa.selenium.Platform;
 
+import com.aventstack.extentreports.AnalysisStrategy;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
@@ -37,7 +38,7 @@ public class ExtentManager {
         extent = new ExtentReports();
         extent.attachReporter(htmlReporter);
         extent.setSystemInfo("OS", System.getProperty("os.name"));
-        
+        extent.setAnalysisStrategy(AnalysisStrategy.SUITE);
  
         return extent;
     }
