@@ -35,10 +35,17 @@ public class ExtentManager {
         htmlReporter.config().setDocumentTitle(fileName);
         htmlReporter.config().setEncoding("utf-8");
         htmlReporter.config().setReportName(fileName);
+        
+        String css1="span.node-time{display: none}";
+        String css2="span.node-duration{display: none}";
+  
+        htmlReporter.config().setCSS(css1);
+        htmlReporter.config().setCSS(css2);
         extent = new ExtentReports();
         extent.attachReporter(htmlReporter);
         extent.setSystemInfo("OS", System.getProperty("os.name"));
         extent.setAnalysisStrategy(AnalysisStrategy.SUITE);
+        
  
         return extent;
     }

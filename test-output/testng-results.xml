@@ -2,20 +2,20 @@
 <testng-results ignored="2" total="5" passed="1" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-08-28T10:43:44Z" name="Portal Automation Testing" finished-at="2019-08-28T10:43:46Z" duration-ms="2432">
+  <suite started-at="2019-08-29T12:04:45Z" name="Portal Automation Testing" finished-at="2019-08-29T12:04:48Z" duration-ms="2541">
     <groups>
     </groups>
-    <test started-at="2019-08-28T10:43:44Z" name="practice" finished-at="2019-08-28T10:43:46Z" duration-ms="2432">
+    <test started-at="2019-08-29T12:04:45Z" name="practice" finished-at="2019-08-29T12:04:48Z" duration-ms="2541">
       <class name="rest.rest.practice">
-        <test-method is-config="true" signature="initialize()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="initialize" finished-at="2019-08-28T10:43:44Z" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:45Z" name="initialize" finished-at="2019-08-29T12:04:45Z" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method is-config="true" signature="init()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="init" finished-at="2019-08-28T10:43:44Z" duration-ms="317" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:45Z" name="init" finished-at="2019-08-29T12:04:46Z" duration-ms="328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="setUp" finished-at="2019-08-28T10:43:44Z" duration-ms="9" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:46Z" name="setUp" finished-at="2019-08-29T12:04:46Z" duration-ms="10" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="createPlaceAPI()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:44Z" name="createPlaceAPI" finished-at="2019-08-28T10:43:46Z" duration-ms="1659" status="PASS">
+        <test-method signature="createPlaceAPI()[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:46Z" name="createPlaceAPI" description="This is to verify create place API" finished-at="2019-08-29T12:04:47Z" duration-ms="1655" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createPlaceAPI -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="setUp" finished-at="2019-08-28T10:43:46Z" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:47Z" name="setUp" finished-at="2019-08-29T12:04:47Z" duration-ms="10" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="test003" data-provider="dataProvider" finished-at="2019-08-28T10:43:46Z" duration-ms="173" status="FAIL">
+        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:47Z" name="test003" description="This is static data provider test" data-provider="dataProvider" finished-at="2019-08-29T12:04:48Z" duration-ms="248" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -96,7 +96,7 @@ at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1217)
 at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.invokeMethodOnSuperN(ScriptBytecodeAdapter.java:144)
 at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)
 at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)
-at rest.rest.practice.test003(practice.java:85)
+at rest.rest.practice.test003(practice.java:87)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -127,7 +127,7 @@ at runner.runner.main(runner.java:80)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test003 -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="setUp" finished-at="2019-08-28T10:43:46Z" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:48Z" name="setUp" finished-at="2019-08-29T12:04:48Z" duration-ms="11" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -138,7 +138,7 @@ at runner.runner.main(runner.java:80)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="test003" data-provider="dataProvider" finished-at="2019-08-28T10:43:46Z" duration-ms="152" status="FAIL">
+        <test-method signature="test003(java.util.Hashtable)[pri:1, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:48Z" name="test003" description="This is static data provider test" data-provider="dataProvider" finished-at="2019-08-29T12:04:48Z" duration-ms="188" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -191,7 +191,7 @@ at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1217)
 at org.codehaus.groovy.runtime.ScriptBytecodeAdapter.invokeMethodOnSuperN(ScriptBytecodeAdapter.java:144)
 at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)
 at io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)
-at rest.rest.practice.test003(practice.java:85)
+at rest.rest.practice.test003(practice.java:87)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -222,7 +222,7 @@ at runner.runner.main(runner.java:80)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test003 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rest.rest.practice@f31c0c6]" started-at="2019-08-28T10:43:46Z" name="tearDown" finished-at="2019-08-28T10:43:46Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rest.rest.practice@d1f74b8]" started-at="2019-08-29T12:04:48Z" name="tearDown" finished-at="2019-08-29T12:04:48Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

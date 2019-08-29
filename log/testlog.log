@@ -100,3 +100,238 @@
 2019-08-28 16:13:46,455 - practice----test003 -INFO - STARTING TEST :test003
 2019-08-28 16:13:46,607 - practice----test003 -INFO - test003 --- Test Failed
 2019-08-28 16:13:46,610 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 15:51:48,063 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 15:51:48,416 - practice----createPlaceAPI -INFO - STARTING TEST :createPlaceAPI
+2019-08-29 15:51:50,670 - practice----createPlaceAPI -INFO - createPlaceAPI --- Test Passed
+2019-08-29 15:51:50,743 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-29 15:51:50,903 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-29 15:51:50,913 - practice----test003 -INFO - STARTING TEST :test003
+2019-08-29 15:51:51,053 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-29 15:51:51,055 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 15:56:09,185 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 15:56:09,508 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 15:56:11,127 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 15:56:11,209 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 15:56:11,417 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-29 15:56:11,432 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 15:56:11,579 - practice----test003 -INFO - test003 --- Test Failed
+2019-08-29 15:56:11,580 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 16:04:39,596 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 16:04:39,904 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 16:04:41,467 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 16:04:41,525 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:04:41,693 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:04:41,706 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:04:41,848 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:04:41,850 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 16:09:24,344 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 16:09:24,658 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 16:09:26,404 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 16:09:26,470 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:09:26,623 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:09:26,634 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:09:26,796 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:09:26,798 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 16:49:49,672 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 16:49:50,000 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 16:49:51,643 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 16:49:51,721 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:49:51,976 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:49:51,986 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:49:52,153 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:49:52,155 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 16:53:29,696 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 16:53:30,016 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 16:53:31,753 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 16:53:31,820 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:53:32,025 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:53:32,035 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:53:32,210 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:53:32,211 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 16:54:07,601 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 16:54:07,919 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 16:54:09,690 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 16:54:09,780 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:54:09,951 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:54:09,968 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:54:10,150 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:54:10,151 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 16:56:37,642 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 16:56:37,945 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 16:56:39,608 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 16:56:39,680 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:56:39,880 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:56:39,892 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 16:56:40,113 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 16:56:40,114 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:00:44,492 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:00:44,817 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:00:46,660 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:00:46,753 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:00:46,927 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:00:46,947 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:00:47,184 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:00:47,186 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:02:50,906 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:02:51,237 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:02:52,825 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:02:52,894 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:02:53,097 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:02:53,116 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:02:53,310 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:02:53,312 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:03:43,724 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:03:44,081 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:03:45,894 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:03:45,971 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:03:46,199 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:03:46,209 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:03:46,380 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:03:46,381 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:04:41,551 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:04:41,855 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:04:43,564 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:04:43,641 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:04:43,880 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:04:43,889 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:04:44,114 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:04:44,115 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:05:11,629 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:05:11,951 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:05:13,739 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:05:13,817 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:05:14,039 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:05:14,051 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:05:14,248 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:05:14,252 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:12:40,744 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:12:41,071 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:12:42,785 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:12:42,867 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:12:43,034 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:12:43,045 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:12:43,189 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:12:43,194 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:12:43,443 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+Malformed date/time format descriptor: "date". Reason given: Illegal pattern character 't'
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.startTime?datetime?string["$...  [in template "nav.ftl" at line 33, column 72]
+	- Reached through: #include "nav.ftl"  [in template "index.ftl" at line 50, column 17]
+
+----
+Java stack trace (for programmers):
+----
+freemarker.core._TemplateModelException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.Environment.getTemplateDateFormat(Environment.java:1353)
+	at freemarker.core.Environment.formatDate(Environment.java:1196)
+	at freemarker.core.BuiltInsForMultipleTypes$stringBI$DateFormatter.get(BuiltInsForMultipleTypes.java:524)
+	at freemarker.core.DynamicKeyName.dealWithStringKey(DynamicKeyName.java:145)
+	at freemarker.core.DynamicKeyName._eval(DynamicKeyName.java:73)
+	at freemarker.core.Expression.eval(Expression.java:78)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.include(Environment.java:2072)
+	at freemarker.core.Include.accept(Include.java:167)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.aventstack.extentreports.reporter.ExtentHtmlReporter.flush(ExtentHtmlReporter.java:142)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+	at com.aventstack.extentreports.Report.notifyReporters(Report.java:247)
+	at com.aventstack.extentreports.Report.flush(Report.java:169)
+	at com.aventstack.extentreports.ExtentReports.flush(ExtentReports.java:270)
+	at com.qa.utils.WebEventListener.onFinish(WebEventListener.java:89)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:772)
+	at org.testng.TestRunner.afterRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:509)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at runner.runner.test_runner(runner.java:73)
+	at runner.runner.main(runner.java:80)
+2019-08-29 17:15:01,050 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:15:01,413 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:15:03,132 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:15:03,205 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:15:03,367 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:15:03,381 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:15:03,553 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:15:03,555 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:16:20,859 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:16:21,168 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:16:22,855 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:16:22,942 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:16:23,115 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:16:23,126 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:16:23,317 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:16:23,318 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:18:07,537 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:18:07,882 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:18:09,552 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:18:09,629 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:18:09,819 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:18:09,833 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:18:09,976 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:18:09,977 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:23:21,626 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:23:21,940 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:23:23,642 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:23:23,727 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:23:23,910 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:23:23,924 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:23:24,073 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:23:24,074 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:24:53,712 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:24:54,048 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:24:55,787 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:24:55,854 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:24:56,020 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:24:56,034 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:24:56,174 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:24:56,175 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:25:28,680 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:25:29,007 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:25:30,693 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:25:30,763 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:25:30,931 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:25:30,944 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:25:31,088 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:25:31,090 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:27:01,019 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:27:01,329 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:27:02,997 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:27:03,075 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:27:03,224 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:27:03,235 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:27:03,381 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:27:03,385 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:29:27,914 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:29:28,221 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:29:29,950 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:29:30,029 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:29:30,196 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:29:30,207 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:29:30,348 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:29:30,350 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice
+2019-08-29 17:34:45,833 - practice -INFO - STARTING TESTS FOR CLASS --- practice
+2019-08-29 17:34:46,145 - practice----createPlaceAPI -INFO - STARTING TEST :This is to verify create place API
+2019-08-29 17:34:47,800 - practice----createPlaceAPI -INFO - This is to verify create place API --- Test Passed
+2019-08-29 17:34:47,873 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:34:48,121 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:34:48,135 - practice----test003 -INFO - STARTING TEST :This is static data provider test
+2019-08-29 17:34:48,323 - practice----test003 -INFO - This is static data provider test --- Test Failed
+2019-08-29 17:34:48,324 - practice----test003 -INFO - ENDING TESTS FOR CLASS --- practice

@@ -29,23 +29,23 @@ public class WebEventListener extends TestBase implements ITestListener{
 
 	@Override
 	public void onTestStart(ITestResult result) {
-		System.out.println((result.getMethod().getMethodName() + " started!"));
-		ExtentTest extentTest = classLevelReport.get().createNode(result.getMethod().getMethodName()); 
+		System.out.println((result.getMethod().getDescription() + " started!"));
+		ExtentTest extentTest = classLevelReport.get().createNode(result.getMethod().getDescription()); 
 		extentTest.assignCategory("Test_Case_Level_Run_Result");
-		logger.info("STARTING TEST :"+result.getMethod().getMethodName());
+		logger.info("STARTING TEST :"+result.getMethod().getDescription());
 		test.set(extentTest);
 	}
 
 	@Override
 	public void onTestSuccess(ITestResult result) {
-		logger.info(result.getMethod().getMethodName()+" --- Test Passed");
+		logger.info(result.getMethod().getDescription()+" --- Test Passed");
 		test.get().pass("Test passed");
 
 	}
 
 	@Override
 	public void onTestFailure(ITestResult result) {
-		logger.info(result.getMethod().getMethodName()+" --- Test Failed");
+		logger.info(result.getMethod().getDescription()+" --- Test Failed");
 
 		String exceptionMessage = result.getThrowable().getClass().toString();
 		test.get()
@@ -58,7 +58,7 @@ public class WebEventListener extends TestBase implements ITestListener{
 
 	@Override
 	public void onTestSkipped(ITestResult result) {
-		logger.info(result.getMethod().getMethodName()+" --- Test Skipped");
+		logger.info(result.getMethod().getDescription()+" --- Test Skipped");
 		//test.get().skip(result.getThrowable());
 		String exceptionMessage = result.getThrowable().getClass().toString();
 		test.get()
@@ -71,7 +71,7 @@ public class WebEventListener extends TestBase implements ITestListener{
 
 	@Override
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
-		logger.info("onTestFailedButWithinSuccessPercentage for " + result.getMethod().getMethodName());
+		logger.info("onTestFailedButWithinSuccessPercentage for " + result.getMethod().getDescription());
 	}
 
 	@Override

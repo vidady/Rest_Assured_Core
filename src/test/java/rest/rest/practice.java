@@ -10,6 +10,7 @@ import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.context.annotation.Description;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -43,8 +44,9 @@ public class practice extends TestBase{
 		.body("results[0].name", equalTo("Sydney"));
 
 	}
-
-	@Test(enabled = true)
+	
+    
+	@Test(enabled = true,description="This is to verify create place API")
 	public void createPlaceAPI() throws IOException, ClassNotFoundException {
 		Location loc = new Location();
 		WheaterPost wp = new WheaterPost();
@@ -76,7 +78,7 @@ public class practice extends TestBase{
 	}
 
 
-	@Test(dataProvider="dataProvider", priority=1)
+	@Test(dataProvider="dataProvider", priority=1,description="This is static data provider test")
 	public void test003(Hashtable<String,String>data) {
 		initial_test_tasks(data);
 		RestAssured.baseURI = "http://216.10.245.166";
